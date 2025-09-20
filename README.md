@@ -1,2 +1,3 @@
 # Java
-Exercícios e projetos em java. Tanto na UEM quanto em cursos fora
+Desenvolvimento da disciplina de POO-UEM em JAVA
+
